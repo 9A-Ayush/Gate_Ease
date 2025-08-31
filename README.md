@@ -3,8 +3,6 @@
 > **Modernizing Society Management with Digital Security, Payments,
 > Social Engagement & Local Marketplace**
 
-![Banner](https://your-banner-link.com)
-`<!-- optional banner if you have one -->`{=html}
 
 ------------------------------------------------------------------------
 
