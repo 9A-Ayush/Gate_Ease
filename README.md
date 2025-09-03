@@ -6,6 +6,12 @@
 > It provides **visitor management, complaints, bill payments, vendor
 > marketplace, social feed, and in-app shopping** --- ensuring
 > **security, convenience, and engagement** in gated societies.
+  
+<p align="center">
+  <a href="https://drive.google.com/file/d/1MD7pF-JlriqZE8hUvbNTCzwKFNr-BW6m/view?usp=sharing" download>
+    <img src="https://img.shields.io/badge/⬇_Download_GateEase_APK-blue?style=for-the-badge&logo=android" alt="Download GateEase APK">
+  </a>
+</p>
 
 ------------------------------------------------------------------------
 
