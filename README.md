@@ -8,7 +8,7 @@
 > **security, convenience, and engagement** in gated societies.
   
 <p align="center">
-  <a href="https://drive.google.com/file/d/1MD7pF-JlriqZE8hUvbNTCzwKFNr-BW6m/view?usp=sharing" download>
+  <a href="https://download-page-blond.vercel.app/" download>
     <img src="https://img.shields.io/badge/⬇_Download_GateEase_APK-blue?style=for-the-badge&logo=android" alt="Download GateEase APK">
   </a>
 </p>
