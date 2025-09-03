@@ -97,13 +97,6 @@ flutter run
 
 ------------------------------------------------------------------------
 
-## 🎨 UI/UX Design
-
-👉 [Figma
-Prototype](https://www.figma.com/design/JjiIYOj2nT8DJunTEIbaut/Gate-Ease-2?node-id=0-1)
-
-------------------------------------------------------------------------
-
 
 -   **Ayush Kumar**\
     [![GitHub](https://img.shields.io/badge/GitHub-9A--Ayush-black?logo=github)](https://github.com/9A-Ayush)\
