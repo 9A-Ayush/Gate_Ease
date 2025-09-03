@@ -40,7 +40,7 @@ residents, guards, and administrators.
 
 ### Vendor Dashboard
 
-![Vendor Dashboard](screenshots/admin.png)
+![Vendor Dashboard](https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/v.jpg)
 
 ### Shopping & Social Feed
 
