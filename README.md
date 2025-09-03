@@ -54,27 +54,36 @@
 
 ------------------------------------------------------------------------
 
-## 📸 Screenshots
+## 📸 Screenshots & Layout Structure  
 
-### 🏠 Resident Dashboard
+Below are the key dashboards and feature screens from **GateEase**, arranged to reflect the app’s role-based structure and core modules.  
 
-![Resident
-Dashboard](https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/r.jpg)
+**📂 Layout Overview**  
+- **Resident:** Visitor Management, Complaints, Bill Payments, Amenities, Social Feed, Shopping  
+- **Admin:** User Management, Vendor Ads Approval, Announcements, Payment Tracking  
+- **Guard:** Visitor Entry Logs, Pre-Approved Lists, SOS Alerts  
+- **Vendor:** Service Listings, Ads, Product Sales  
 
-### 👨‍💼 Admin Dashboard
+---
 
-![Admin
-Dashboard](https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/a.jpg)
+### 🏠 Resident Dashboard  
+![Resident Dashboard](https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/r.jpg)  
 
-### 🛡 Guard Dashboard
+### 👨‍💼 Admin Dashboard  
+![Admin Dashboard](https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/a.jpg)  
 
-![Guard
-Dashboard](https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/g.jpg)
+### 🛡 Guard Dashboard  
+![Guard Dashboard](https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/g.jpg)  
 
-### 🛍 Vendor Dashboard
+### 🛍 Vendor Dashboard  
+![Vendor Dashboard](https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/v.jpg)  
 
-![Vendor
-Dashboard](https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/v.jpg)
+### 🛒 Shopping Page  
+![Shopping Page](https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/sp.jpg)  
+
+### 📢 Social Feed  
+![Social Feed](https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/m.jpg)  
+
 
 ------------------------------------------------------------------------
 
