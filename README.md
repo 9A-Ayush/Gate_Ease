@@ -59,22 +59,22 @@
 ### 🏠 Resident Dashboard
 
 ![Resident
-Dashboard](https://via.placeholder.com/800x400.png?text=Resident+Dashboard)
+Dashboard](https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/r.jpg)
 
 ### 👨‍💼 Admin Dashboard
 
 ![Admin
-Dashboard](https://via.placeholder.com/800x400.png?text=Admin+Dashboard)
+Dashboard](https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/a.jpg)
 
 ### 🛡 Guard Dashboard
 
 ![Guard
-Dashboard](https://via.placeholder.com/800x400.png?text=Guard+Dashboard)
+Dashboard](https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/g.jpg)
 
 ### 🛍 Vendor Dashboard
 
 ![Vendor
-Dashboard](https://via.placeholder.com/800x400.png?text=Vendor+Dashboard)
+Dashboard](https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/v.jpg)
 
 ------------------------------------------------------------------------
 
