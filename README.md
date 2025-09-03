@@ -67,14 +67,14 @@ Below are the key dashboards and feature screens from **GateEase**, arranged to 
 
 <table>
   <tr>
-    <td align="center">🏠 Resident Dashboard<br><img src="https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/r.jpg" width="250"></td>
-    <td align="center">👨‍💼 Admin Dashboard<br><img src="https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/a.jpg" width="250"></td>
+    <td align="center">🏠 Resident Dashboard<br><img src="https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/r.jpg" width="300"></td>
+    <td align="center">👨‍💼 Admin Dashboard<br><img src="https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/a.jpg" width="300"></td>
     <td align="center">🛡 Guard Dashboard<br><img src="https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/g.jpg" width="250"></td>
   </tr>
   <tr>
-    <td align="center">🛍 Vendor Dashboard<br><img src="https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/v.jpg" width="250"></td>
-    <td align="center">🛒 Shopping Page<br><img src="https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/sp.jpg" width="250"></td>
-    <td align="center">📢 Social Feed<br><img src="https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/m.jpg" width="250"></td>
+    <td align="center">🛍 Vendor Dashboard<br><img src="https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/v.jpg" width="300"></td>
+    <td align="center">🛒 Shopping Page<br><img src="https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/sp.jpg" width="300"></td>
+    <td align="center">📢 Social Feed<br><img src="https://github.com/9A-Ayush/Gate_Ease/blob/main/assets/ss/m.jpg" width="300"></td>
   </tr>
 </table>
 
