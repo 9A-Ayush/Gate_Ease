@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "155438760432",
+    "project_id": "gateease-23400",
+    "storage_bucket": "gateease-23400.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155438760432:android:82f0727da868e495f2dd35",
+        "android_client_info": {
+          "package_name": "com.example.gate_ease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155438760432-jes3ipg1uo4p9qvv7bg1m0vdrfcjh6h7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gate_ease",
+            "certificate_hash": "a21945eef3d4092d4f4a499ee0863cd60f731226"
+          }
+        },
+        {
+          "client_id": "155438760432-adeamb330sjbrj10md7g8ge884s3gasp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDXIy1Zj4Z7s-4qWj_pqttsPOKWpZlvoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155438760432-adeamb330sjbrj10md7g8ge884s3gasp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "155438760432-uahs0v8c9mn4ej3irg5dn87f8vjpi6l2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gateEase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

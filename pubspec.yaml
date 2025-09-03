@@ -1,0 +1,49 @@
+name: gate_ease
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+  cloud_firestore: ^6.0.0
+  firebase_auth: ^6.0.1
+  firebase_core: ^4.0.0
+  google_sign_in: ^7.1.1
+  cupertino_icons: ^1.0.8
+  table_calendar: ^3.0.9
+  image_picker: ^1.0.4
+  http: ^1.1.0
+  crypto: ^3.0.3
+  auto_size_text: ^3.0.0
+  timeago: ^3.6.1
+  video_player: ^2.8.2
+  razorpay_flutter: ^1.4.0
+  fluttertoast: ^8.2.8  # Use latest version with namespace fix
+  firebase_storage: ^13.0.0
+  cached_network_image: ^3.3.1
+  badges: ^3.1.2
+  flutter_rating_bar: ^4.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/icon/icon.png"
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icon/icon.png
