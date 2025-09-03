@@ -101,16 +101,11 @@ Prototype](https://www.figma.com/design/JjiIYOj2nT8DJunTEIbaut/Gate-Ease-2?node-
 
 ------------------------------------------------------------------------
 
-## 👥 Team -- 7CE_70
 
--   **Ayush Kumar** (92201703008)\
+-   **Ayush Kumar**\
     [![GitHub](https://img.shields.io/badge/GitHub-9A--Ayush-black?logo=github)](https://github.com/9A-Ayush)\
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumar-blue?logo=linkedin)](http://www.linkedin.com/in/ayush-kumar-849a1324b)\
     [![Instagram](https://img.shields.io/badge/Instagram-%40ayush__ix__xi-pink?logo=instagram)](https://www.instagram.com/ayush_ix_xi)
-
--   **Karan Singh** (92201703101)\
-
--   **Adarsh Kumar** (92201703095)
 
 ------------------------------------------------------------------------
 
