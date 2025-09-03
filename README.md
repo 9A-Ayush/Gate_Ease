@@ -38,6 +38,10 @@ residents, guards, and administrators.
 
 ![Admin Dashboard](screenshots/admin.png)
 
+### Vendor Dashboard
+
+![Vendor Dashboard](screenshots/admin.png)
+
 ### Shopping & Social Feed
 
 ![Shopping Page](screenshots/shopping.png)\
