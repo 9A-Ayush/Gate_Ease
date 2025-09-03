@@ -32,7 +32,6 @@
 -   💳 **Payments** -- Razorpay integration for secure UPI/Card
     payments\
 -   ☁ **Media Storage** -- Cloudinary for images, banners & uploads\
--   📞 **Communication** -- Agora-powered voice/video calls\
 -   🔔 **Notifications** -- Real-time alerts via Firebase Cloud
     Messaging
 
@@ -52,8 +51,6 @@
   **💳 Payments**                             ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
 
   **☁ Media**                                 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-  **📞 Communication**                        ![Agora](https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logo=Agora&logoColor=white)
 
   **🔔 Notifications**                        ![FCM](https://img.shields.io/badge/FCM-Push%20Notifications-yellow?style=for-the-badge&logo=firebase)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
